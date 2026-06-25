@@ -67,7 +67,7 @@ Shipping production SaaS, AI platforms, and automation for 4+ years. Full-stack 
 
 <img src="./assets/logo/oneicons.svg" alt="OneIcons" width="180"/>
 
-### [OneIcons](https://oneicons.vercel.app/)
+### [OneIcons](https://www.oneicons.com/)
 
 OneIcons is a state-of-the-art, responsive web application designed for seamless icon discovery, management, and integration. Built with the latest web technologies, it offers a premium user experience with fluid animations, robust search capabilities, and a sleek, modern interface.
 
